@@ -1,6 +1,6 @@
 # flutter_learn_fatnin
 
-A new Flutter project.
+Colab concept 
 
 ## Getting Started
 
